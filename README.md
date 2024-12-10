@@ -8,5 +8,5 @@ As a result we have created a synthetic database using data collection and data 
 
 NOTE:
 1. Please keep in mind that the preview of the ipynb does not completely show the visualization correctly. You would have to run the ipynb file! 
-2. There is a video linked in a pdf under "Project Video"
+2. There is a video linked in a pdf under "Link to Video"
 3. We have included the Report for our analysis and results under "Project Report" pdf
