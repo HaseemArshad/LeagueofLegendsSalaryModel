@@ -41,7 +41,7 @@ Open and execute the `LeagueofLegendsSalaryModel.ipynb` Jupyter Notebook cell by
 
 ---
 
-### [Video Demo]([https://drive.google.com/file/d/1AD2gHVRxQxd_uSUjQ4EZqavwZR2hOYIx/view?usp=share_link](https://drive.google.com/drive/folders/1O1uVhDB0I9JRFf2GbC3Pn9SCTI9IwH9Z?usp=sharing)
+### [Video Link:]([https://drive.google.com/file/d/1AD2gHVRxQxd_uSUjQ4EZqavwZR2hOYIx/view?usp=share_link](https://drive.google.com/drive/folders/1O1uVhDB0I9JRFf2GbC3Pn9SCTI9IwH9Z?usp=sharing)
 
 
 Please let us know if you have any issues with running this via our netid@scarletmail.rutgers.edu  
