@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ### 4. Running the League of Legends Salary Model Jupyter Notebook
 
-Open and execute the `LeagueofLegendsSalaryModel.ipynb` Jupyter Notebook cell by cell to train and evaluate the model.
+Open and execute the `League_of_Legends_Salary_Model.ipynb` Jupyter Notebook cell by cell to train and evaluate the model.
 
 ---
 
